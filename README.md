@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishna5737
 - 👀 I’m interested in JavaScript.
-- 🌱 I’m currently learning AngularJS
 - 📫 mail me @krishna.5737@gmail.com
+-  Know more about me @http://krishankumar.xyz
 
 <!---
 krishna5737/krishna5737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
